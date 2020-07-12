@@ -2,7 +2,7 @@
 DNAc is a programming language for DNAs.
 
 ## DNAc's compiler
-We need to develop a compiler that can convert code written in DNAc language into DNA sequence. Observing those DNA sequences and generalizing those can open possibilities to make totally custom plants by just combining those traits.<br>
+We need to develop a compiler that can convert code written in DNAc language into DNA sequence. Observing DNA sequences and generalizing them, can open possibilities to make totally custom plants by just combining those traits.<br>
 This is possible by following
  1. Studying DNAs sequences
     1. How DNA sequences work ? 
