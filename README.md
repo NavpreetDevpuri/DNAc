@@ -2,7 +2,7 @@
 DNAc is a programming language for DNAs.
 
 ## DNAc's device 
-This will be a device similar to [arduino](https://www.arduino.cc/) that can edit at most any cell's DNA easily. We just put cells in it and it will somehow read DNA sequences and write DNA sequences using CRISPR - Cas9 for gene editing. In short this is the gateway between us and DNAs.
+This will be a device similar to [arduino](https://www.arduino.cc/) that can edit at most any cell's DNA easily. We just put cells in it and it will somehow read DNA sequences and write DNA sequences using CRISPR - Cas9 for gene editing. In short, This is the gateway between us and DNAs.
 
 
 ## DNAc's compiler
