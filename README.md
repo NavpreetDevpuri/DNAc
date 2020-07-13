@@ -16,3 +16,6 @@ This is possible by following
     2. Some sequence may only responsible for some specific traits like color.
  3. Testing different-different sequences of DNA for finding their traits or work.
     1. We can develop a machine that can automate that process by making and growing different-different versions of a plant having different-different DNA sequences automatically. Then we just need to observe those plants to cellect information about DNA sequences.
+
+## DNAc's debugger 
+This will allow us to monitor living cells and may let us change any DNA sequence in living cells to check what happen after that particular change. 
