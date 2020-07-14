@@ -17,7 +17,7 @@ This is possible by following
  3. Testing different-different sequences of DNA for finding their traits or work.
     1. We can develop a machine that can automate that process by making and growing different-different versions of a plant having different-different DNA sequences automatically. Then we just need to observe those plants to cellect information about DNA sequences.
 
-## DNAc decompiler
+## DNAc's decompiler
 This will convert DNA sequences into human readable DNAc code. 
 
 ## DNAc's debugger 
