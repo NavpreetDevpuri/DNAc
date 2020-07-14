@@ -1,5 +1,5 @@
 # DNAc
-DNAc is a programming language for DNAs.
+DNAc is a programming language for DNAs. It is the beginning of new era.
 
 
 
