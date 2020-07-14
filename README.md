@@ -3,7 +3,7 @@ DNAc is a programming language for DNAs.
 
 
 
-# How does it may possible 
+# How is it may be possible ?
  1. By studying DNAs sequences
     1. How DNA sequences work ? 
     2. How those sequences come up to form a trait ?
