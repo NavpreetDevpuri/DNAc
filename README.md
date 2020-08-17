@@ -1,7 +1,7 @@
 # DNAc
 DNAc is a programming language for DNAs. It is the beginning of new era.
 
-
+<img src="./logo/logo.png" alt="drawing" width="233"/>
 
 # How is it may be possible ?
  1. By studying DNAs sequences
